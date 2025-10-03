@@ -17,4 +17,3 @@ EtBook helps Ethiopian entrepreneurs, cooperatives, and households keep finances
 - [Privacy Policy](./privacy-policy.md)
 - [Terms of Service](./terms-of-service.md)
 - [Support](./support.md)
-- [GitHub Repository](https://github.com/ethiobook/mobile)
