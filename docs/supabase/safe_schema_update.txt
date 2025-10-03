@@ -1,0 +1,4 @@
+-- Safe schema update script (copy)
+-- Same as supabase/schema/base_schema.sql, preserved here as a record of what was run in the SQL editor.
+
+-- (See supabase/schema/base_schema.sql for the canonical version.)
